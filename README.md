@@ -22,4 +22,4 @@ informações do lembrete, e salvar na posição.
 
 concluído como true.
 
-![(![CRUD](<![alt text](<image.png>)>))]
+![CRUD](<![alt text](<image.png>)>)
