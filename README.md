@@ -22,4 +22,4 @@ informações do lembrete, e salvar na posição.
 
 concluído como true.
 
-![(![CRUD](<Captura de tela de 2026-04-07 19-14-54.png>))]
+![(![CRUD](<![alt text](<Captura de tela de 2026-04-14 21-14-45.png>)>))]
