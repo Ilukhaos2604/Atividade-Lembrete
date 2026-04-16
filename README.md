@@ -21,5 +21,3 @@ informações do lembrete, e salvar na posição.
 • Marcar como Concluido: listar, selecionar um lembrete e marcar
 
 concluído como true.
-
-![](<image.png>)
